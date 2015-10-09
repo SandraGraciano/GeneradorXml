@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis BACRIM</nombre>
+    <tipo>Familia</tipo>
+    <fecha>2015-11-16</fecha>
+    <lugar>Caldas</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Mabel</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1946-09-20</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Andrés</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1993-07-07</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Gomez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1951-01-15</fecha-nacimiento>
+                <lugar-nacimiento>Bogota</lugar-nacimiento>
+                <lugar-procedencia>Amaga</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Ferney</nombres>
+                <apellidos>Tobon</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1999-10-19</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Santos</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2009-02-29</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Buenaventura</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Anderson</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2008-01-03</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1999-02-06</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Ruth</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1961-12-18</fecha-nacimiento>
+                <lugar-nacimiento>Buenaventura</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1953-05-19</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1951-12-19</fecha-nacimiento>
+                <lugar-nacimiento>Maicao</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Yamir</nombres>
+                <apellidos>Gomez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1994-02-18</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>Santa Elena</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Calderón</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1976-10-04</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1959-12-08</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Margarita</nombres>
+                <apellidos>Tobon</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1972-09-15</fecha-nacimiento>
+                <lugar-nacimiento>Bogota</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1987-09-07</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Santa Elena</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1962-01-17</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>Tolu</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernanda</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1956-09-14</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Asusena</nombres>
+                <apellidos>Santos</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1987-07-28</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2011-11-13</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fernanda</nombres>
+                <apellidos>Gomez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1968-06-25</fecha-nacimiento>
+                <lugar-nacimiento>Jardin</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

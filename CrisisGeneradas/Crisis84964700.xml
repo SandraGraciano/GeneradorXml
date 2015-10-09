@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis sequia</nombre>
+    <tipo>Economia</tipo>
+    <fecha>2014-12-04</fecha>
+    <lugar>Betulia</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1983-09-27</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1947-11-20</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mildrey</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1980-02-06</fecha-nacimiento>
+                <lugar-nacimiento>Monteria</lugar-nacimiento>
+                <lugar-procedencia>Amaga</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1986-06-12</fecha-nacimiento>
+                <lugar-nacimiento>Monteria</lugar-nacimiento>
+                <lugar-procedencia>Santa Elena</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Ruth</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2010-07-10</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1999-06-06</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mildrey</nombres>
+                <apellidos>Tobon</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1983-05-08</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Sara</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1990-04-26</fecha-nacimiento>
+                <lugar-nacimiento>Pitalito</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1970-05-27</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Mabel</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1982-11-01</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mario</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2004-01-12</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1996-03-29</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Caqueta</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1991-08-24</fecha-nacimiento>
+                <lugar-nacimiento>Jardin</lugar-nacimiento>
+                <lugar-procedencia>Tolu</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Sergio</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2007-07-20</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Margarita</nombres>
+                <apellidos>Calderón</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2001-06-06</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Velez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1965-06-12</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Pitalito</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1962-05-03</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Caqueta</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fredy</nombres>
+                <apellidos>Gomez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2009-09-18</fecha-nacimiento>
+                <lugar-nacimiento>Bogota</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mario</nombres>
+                <apellidos>Santos</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1978-03-01</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Mario</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1967-03-18</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

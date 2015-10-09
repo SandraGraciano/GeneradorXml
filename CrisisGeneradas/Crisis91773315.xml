@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis fronteriza con Venezuela</nombre>
+    <tipo>Rapto</tipo>
+    <fecha>2014-10-28</fecha>
+    <lugar>Bogota</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1976-05-22</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Bogota</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Mario</nombres>
+                <apellidos>Tobon</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2005-02-17</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Monteria</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Sara</nombres>
+                <apellidos>Santos</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1967-06-07</fecha-nacimiento>
+                <lugar-nacimiento>Jardin</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1949-07-19</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Oquendo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1979-07-23</fecha-nacimiento>
+                <lugar-nacimiento>Buenaventura</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Margarita</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1977-06-21</fecha-nacimiento>
+                <lugar-nacimiento>Bogota</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Santos</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1948-11-06</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Dario</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1989-03-01</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1992-04-08</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Tolu</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Asusena</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1950-03-09</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1950-02-09</fecha-nacimiento>
+                <lugar-nacimiento>Caldas</lugar-nacimiento>
+                <lugar-procedencia>Caqueta</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1962-08-12</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1976-12-22</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Anderson</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1977-08-10</fecha-nacimiento>
+                <lugar-nacimiento>Cali</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Dario</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2007-01-01</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1985-09-26</fecha-nacimiento>
+                <lugar-nacimiento>Cali</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Antonio</nombres>
+                <apellidos>Tobon</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1994-02-17</fecha-nacimiento>
+                <lugar-nacimiento>Monteria</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1977-11-18</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Ferney</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1957-01-27</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1993-09-25</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

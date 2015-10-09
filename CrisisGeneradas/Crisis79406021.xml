@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis interna en Colombia</nombre>
+    <tipo>Muerte</tipo>
+    <fecha>2015-02-11</fecha>
+    <lugar>Amaga</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Sara</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2011-03-06</fecha-nacimiento>
+                <lugar-nacimiento>Bogota</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fernanda</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2014-02-24</fecha-nacimiento>
+                <lugar-nacimiento>Maicao</lugar-nacimiento>
+                <lugar-procedencia>Amaga</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2015-05-11</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1973-03-07</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernanda</nombres>
+                <apellidos>Diaz</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2008-03-26</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Amaga</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Antonio</nombres>
+                <apellidos>Gomez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1947-12-03</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Tolu</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Antonio</nombres>
+                <apellidos>Santos</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2013-03-04</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Yamir</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2002-02-24</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2012-04-02</fecha-nacimiento>
+                <lugar-nacimiento>Caldas</lugar-nacimiento>
+                <lugar-procedencia>Caqueta</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Asusena</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1984-08-01</fecha-nacimiento>
+                <lugar-nacimiento>Buenaventura</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Antonio</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1985-11-02</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Sergio</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1993-07-08</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1970-11-11</fecha-nacimiento>
+                <lugar-nacimiento>San vicente</lugar-nacimiento>
+                <lugar-procedencia>Bogota</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1977-04-11</fecha-nacimiento>
+                <lugar-nacimiento>La Rancheria</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mabel</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1955-06-18</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Bajo Cauca</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Asusena</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1975-08-24</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Jardin</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Oquendo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1989-05-11</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2011-12-02</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>La Rancheria</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mildrey</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1977-11-07</fecha-nacimiento>
+                <lugar-nacimiento>Caldas</lugar-nacimiento>
+                <lugar-procedencia>La Rancheria</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1993-08-24</fecha-nacimiento>
+                <lugar-nacimiento>La Rancheria</lugar-nacimiento>
+                <lugar-procedencia>Tolu</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

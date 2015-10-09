@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis BACRIM</nombre>
+    <tipo>Muerte</tipo>
+    <fecha>2014-05-14</fecha>
+    <lugar>Caldas</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Metzú</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1995-06-24</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Monteria</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Ferney</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2005-07-13</fecha-nacimiento>
+                <lugar-nacimiento>Maicao</lugar-nacimiento>
+                <lugar-procedencia>La Rancheria</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mario</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1958-08-13</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Oquendo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1951-10-16</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Antonio</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1996-10-02</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Monteria</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1999-08-18</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Santa Elena</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Ferney</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2004-09-17</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>Monteria</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fredy</nombres>
+                <apellidos>Rubio</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1953-06-16</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Caldas</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Yamir</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1976-07-17</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2012-09-24</fecha-nacimiento>
+                <lugar-nacimiento>San vicente</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Antonio</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1958-07-17</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1988-09-11</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Monteria</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>William</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1981-05-07</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>William</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1986-01-09</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1998-08-18</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Sergio</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1976-07-19</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Caldas</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Andrés</nombres>
+                <apellidos>Velez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1983-07-19</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1975-04-29</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Buenaventura</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Maldonado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1950-04-26</fecha-nacimiento>
+                <lugar-nacimiento>Pitalito</lugar-nacimiento>
+                <lugar-procedencia>Pitalito</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Alberto</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1987-01-27</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

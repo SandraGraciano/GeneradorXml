@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis de las piramides</nombre>
+    <tipo>Secuestro</tipo>
+    <fecha>2014-09-27</fecha>
+    <lugar>Angelopolis</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1999-05-28</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Jardin</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Velez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1977-10-06</fecha-nacimiento>
+                <lugar-nacimiento>La Rancheria</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1984-05-05</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Coveñas</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Mildrey</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1956-04-09</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fredy</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1954-05-25</fecha-nacimiento>
+                <lugar-nacimiento>Jardin</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1997-10-19</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1966-09-06</fecha-nacimiento>
+                <lugar-nacimiento>Caldas</lugar-nacimiento>
+                <lugar-procedencia>Pitalito</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1949-03-10</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Diaz</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1979-03-11</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>La Rancheria</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Dario</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1975-07-14</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Sergio</nombres>
+                <apellidos>Maldonado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1947-03-05</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1948-11-10</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Sergio</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1987-12-12</fecha-nacimiento>
+                <lugar-nacimiento>Buenaventura</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1993-07-30</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Sara</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1977-05-05</fecha-nacimiento>
+                <lugar-nacimiento>Cali</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Sergio</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1952-09-20</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Metzú</nombres>
+                <apellidos>Santos</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2005-06-20</fecha-nacimiento>
+                <lugar-nacimiento>San vicente</lugar-nacimiento>
+                <lugar-procedencia>Bajo Cauca</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Margarita</nombres>
+                <apellidos>Diaz</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1957-02-15</fecha-nacimiento>
+                <lugar-nacimiento>Pitalito</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Dario</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1965-06-15</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1992-08-09</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Coveñas</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

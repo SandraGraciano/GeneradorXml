@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis interna en Colombia</nombre>
+    <tipo>Muerte</tipo>
+    <fecha>2014-09-23</fecha>
+    <lugar>Bogota</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1961-09-26</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Mario</nombres>
+                <apellidos>Oquendo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2003-04-15</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Andrés</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1992-05-11</fecha-nacimiento>
+                <lugar-nacimiento>Amalfi</lugar-nacimiento>
+                <lugar-procedencia>Buenaventura</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Anderson</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1978-10-12</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Buenaventura</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mabel</nombres>
+                <apellidos>Calderón</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1993-10-15</fecha-nacimiento>
+                <lugar-nacimiento>Cali</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1986-02-24</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Monteria</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Antonio</nombres>
+                <apellidos>Maldonado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1969-03-29</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1985-03-11</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Buenaventura</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Maldonado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1980-04-06</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Andrés</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1966-04-08</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Alberto</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1971-09-17</fecha-nacimiento>
+                <lugar-nacimiento>Maicao</lugar-nacimiento>
+                <lugar-procedencia>Caldas</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1981-12-19</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Pitalito</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mabel</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1987-04-16</fecha-nacimiento>
+                <lugar-nacimiento>Pitalito</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Ruth</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1949-06-20</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Margarita</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1977-10-23</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Diaz</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2012-08-24</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Caldas</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Tobon</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1952-02-07</fecha-nacimiento>
+                <lugar-nacimiento>Caldas</lugar-nacimiento>
+                <lugar-procedencia>Monteria</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>William</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1956-09-29</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Yamir</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1982-03-06</fecha-nacimiento>
+                <lugar-nacimiento>Buenaventura</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Diaz</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1992-07-03</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

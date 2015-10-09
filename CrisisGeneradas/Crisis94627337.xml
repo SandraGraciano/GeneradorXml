@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis familiar</nombre>
+    <tipo>Crisis fronteriza con Venezuela</tipo>
+    <fecha>2014-08-02</fecha>
+    <lugar>Tolu</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Anderson</nombres>
+                <apellidos>Duque</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1981-03-01</fecha-nacimiento>
+                <lugar-nacimiento>Bajo Cauca</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2004-02-05</fecha-nacimiento>
+                <lugar-nacimiento>Caqueta</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>William</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2005-12-06</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Bajo Cauca</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1977-02-25</fecha-nacimiento>
+                <lugar-nacimiento>Pitalito</lugar-nacimiento>
+                <lugar-procedencia>San vicente</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Alexis</nombres>
+                <apellidos>Gomez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1994-04-30</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Velez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1995-09-09</fecha-nacimiento>
+                <lugar-nacimiento>Pitalito</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Mabel</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1981-01-30</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Metzú</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1966-10-24</fecha-nacimiento>
+                <lugar-nacimiento>Bogota</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Tatina</nombres>
+                <apellidos>Velez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1946-08-07</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Bajo Cauca</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Andrés</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1965-12-07</fecha-nacimiento>
+                <lugar-nacimiento>Monteria</lugar-nacimiento>
+                <lugar-procedencia>Cali</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fredy</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1947-06-30</fecha-nacimiento>
+                <lugar-nacimiento>Coveñas</lugar-nacimiento>
+                <lugar-procedencia>Manizales</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Margarita</nombres>
+                <apellidos>Salgado</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2015-12-12</fecha-nacimiento>
+                <lugar-nacimiento>Monteria</lugar-nacimiento>
+                <lugar-procedencia>Caldas</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernando de Sousa</nombres>
+                <apellidos>Calderón</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2011-02-13</fecha-nacimiento>
+                <lugar-nacimiento>Jardin</lugar-nacimiento>
+                <lugar-procedencia>Caldas</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Metzú</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1963-02-17</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Buenaventura</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1948-05-28</fecha-nacimiento>
+                <lugar-nacimiento>Caldas</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Ferney</nombres>
+                <apellidos>Calderón</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2004-04-24</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Buenaventura</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Diaz</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2015-06-17</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Ferney</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1967-12-15</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Medellin</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1951-05-16</fecha-nacimiento>
+                <lugar-nacimiento>Pitalito</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Ruth</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1957-12-20</fecha-nacimiento>
+                <lugar-nacimiento>Buenaventura</lugar-nacimiento>
+                <lugar-procedencia>Bogota</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>

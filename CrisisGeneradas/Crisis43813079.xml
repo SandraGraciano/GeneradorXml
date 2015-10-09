@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crisis>
+    <nombre>Crisis sequia</nombre>
+    <tipo>Crisis fronteriza con Venezuela</tipo>
+    <fecha>2015-04-19</fecha>
+    <lugar>La Rancheria</lugar>
+    <afectados>
+        <familia>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1968-12-28</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Tolu</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Veronica</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1987-03-25</fecha-nacimiento>
+                <lugar-nacimiento>Quindio</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Alberto</nombres>
+                <apellidos>Chica</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1964-03-29</fecha-nacimiento>
+                <lugar-nacimiento>La Rancheria</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Sara</nombres>
+                <apellidos>Quiceno</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>2010-08-09</fecha-nacimiento>
+                <lugar-nacimiento>Entre rios</lugar-nacimiento>
+                <lugar-procedencia>Amalfi</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1999-08-03</fecha-nacimiento>
+                <lugar-nacimiento>Bogota</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Anderson</nombres>
+                <apellidos>Posada</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1978-03-27</fecha-nacimiento>
+                <lugar-nacimiento>Cali</lugar-nacimiento>
+                <lugar-procedencia>Angelopolis</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1967-06-26</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Entre rios</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Juan Manuel</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1970-11-22</fecha-nacimiento>
+                <lugar-nacimiento>Tolu</lugar-nacimiento>
+                <lugar-procedencia>Santa Elena</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Cristian</nombres>
+                <apellidos>Fabra</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1980-02-10</fecha-nacimiento>
+                <lugar-nacimiento>Santa Elena</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Fernanda</nombres>
+                <apellidos>Diaz</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1954-02-02</fecha-nacimiento>
+                <lugar-nacimiento>Caldas</lugar-nacimiento>
+                <lugar-procedencia>Coveñas</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Fernanda</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1993-08-25</fecha-nacimiento>
+                <lugar-nacimiento>Manizales</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Edgar</nombres>
+                <apellidos>Hernandez</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1946-10-15</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Tolu</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Maria Clemencia</nombres>
+                <apellidos>Naranjo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1949-05-10</fecha-nacimiento>
+                <lugar-nacimiento>Puerto Triunfo</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Mildrey</nombres>
+                <apellidos>Uribe</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1985-08-02</fecha-nacimiento>
+                <lugar-nacimiento>San vicente</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Ruth</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1977-07-23</fecha-nacimiento>
+                <lugar-nacimiento>Medellin</lugar-nacimiento>
+                <lugar-procedencia>Betulia</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Dario</nombres>
+                <apellidos>Restrepo</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1970-11-30</fecha-nacimiento>
+                <lugar-nacimiento>Betulia</lugar-nacimiento>
+                <lugar-procedencia>Bajo Cauca</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Martinez</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>2013-02-02</fecha-nacimiento>
+                <lugar-nacimiento>Buenaventura</lugar-nacimiento>
+                <lugar-procedencia>Quindio</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Mario</nombres>
+                <apellidos>Usuga</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1988-10-09</fecha-nacimiento>
+                <lugar-nacimiento>Amaga</lugar-nacimiento>
+                <lugar-procedencia>Maicao</lugar-procedencia>
+            </afectado>
+        </familia>
+        <familia>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Trujillo</apellidos>
+                <rol>Cabeza de hogar</rol>
+                <fecha-nacimiento>1973-07-23</fecha-nacimiento>
+                <lugar-nacimiento>Jardin</lugar-nacimiento>
+                <lugar-procedencia>Puerto Triunfo</lugar-procedencia>
+            </afectado>
+            <afectado>
+                <nombres>Radamel</nombres>
+                <apellidos>Palacios</apellidos>
+                <rol>Hijo</rol>
+                <fecha-nacimiento>1947-07-14</fecha-nacimiento>
+                <lugar-nacimiento>Angelopolis</lugar-nacimiento>
+                <lugar-procedencia>Caldas</lugar-procedencia>
+            </afectado>
+        </familia>
+    </afectados>
+</crisis>
